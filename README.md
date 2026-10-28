@@ -153,7 +153,7 @@ files only and never touch real data or the online database.
 ---
 
 ## 👤 Author
-**Your Name** – [GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-profile>)
+**Sahil Chavan** – [GitHub](https://github.com/sahiiil-c) · [LinkedIn](https://linkedin.com/in/sahiiilc)
 
 ## 📄 License
 Choose a license before publishing (for example **MIT**) and add a `LICENSE` file.
