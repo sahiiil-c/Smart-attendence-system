@@ -69,7 +69,7 @@ LOGIN_COOKIE = "fa_login"  # browser cookie that keeps you logged in
 STATUS_COLORS = {"Present": "#0ca30c", "Pending": "#fab219", "Absent": "#d03b3b",
                  "Flagged": "#8a4bd6"}   # Flagged = suspicious, waiting for a teacher
 
-st.set_page_config(page_title="AI Attendance Management", page_icon="logo\streamlit_page_icon.png", layout="wide")
+st.set_page_config(page_title="AI Attendance Management", page_icon="logo/streamlit_page_icon.png", layout="wide")
 
 # The login box (see page_login) is at least as tall as the screen, so its content can sit
 # in the vertical middle. Longer content (the sign-up camera) simply makes the box taller.
