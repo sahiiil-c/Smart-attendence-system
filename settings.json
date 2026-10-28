@@ -1,0 +1,13 @@
+{
+  "storage": "online",
+  "capture_mode": "Auto",
+  "cooldown_student": 7200,
+  "cooldown_teacher": 60,
+  "capture_switch": false,
+  "college_lat": 19.01121,
+  "college_lon": 73.15866,
+  "geofence_radius_m": 200.0,
+  "allowed_ips": [],
+  "wifi_required": false,
+  "gps_required": false
+}
